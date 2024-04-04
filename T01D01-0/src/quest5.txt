@@ -1,0 +1,10 @@
+1. vim door_management_files/door_configuration/door_1.conf
+2. i
+3. h-k-l-j
+4. Backspace
+5. OPEN
+6. Esc
+7. :wq
+8. Enter
+9. ???
+10. PROFIT

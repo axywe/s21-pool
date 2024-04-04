@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "data_io.h": "c",
+        "data_process.h": "c"
+    }
+}

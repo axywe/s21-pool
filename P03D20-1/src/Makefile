@@ -1,0 +1,2 @@
+all:
+	curl parrot.live
